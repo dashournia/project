@@ -1,0 +1,11 @@
+This file documents the data sources used.
+
+---------------------------------------------------------------------
+CHAPTER 2
+---------------------------------------------------------------------
+Title: EU expenditure and revenue 2014-2020
+File: internet-tables-all_test.xls
+URL: https://ec.europa.eu/budget/graphs/revenue_expediture.html
+Date: 25-09-2020
+Note: The file is without the retro-active impact of the 2014 own
+      resources decision.
